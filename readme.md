@@ -124,7 +124,7 @@ m)
 #                                         /  \        | \     |       |              |            /
 #                                     ---      ---    |  \_   |       |              |           /
 
-#                                    Dev By: fnderlielie ID discord: 865565502957027368 Team Dev: XkittyDev  
+#                                    Dev By: sertznez ID discord: 865565502957027368 Team Dev: XkittyDev  
 #                                       More Project:  Courloy    ,    WhiteCat       ,      Maded
 #                                           Dev By:   gnof.dev   ,    gau_candy      ,     sertznez
 
